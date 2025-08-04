@@ -73,6 +73,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashPaul923&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AkashPaul923&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashPaul923&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://https://codeforces-readme-stats.vercel.app/api/card?username=AkashPaul_IST_NU_BD&theme=radical" height="150" alt="Codeforces Stats"  />
+  <img src="https://leetcard.jacoblin.cool/2002_AkashPaul?ext=contest&theme=dark" height="300" alt="Leetcode Stats"  />
+  
+</div>
+
+###
+<h2 align="left">Competitive Programming Stats</h2>
+<div align="center">
+  <img src="https://https://codeforces-readme-stats.vercel.app/api/card?username=AkashPaul_IST_NU_BD&theme=radical" height="200" alt="Codeforces Stats"  />
+  <img src="https://leetcard.jacoblin.cool/2002_AkashPaul?ext=contest&theme=dark" height="200" alt="Leetcode Stats"  />
 </div>
 
 ###
